@@ -5,4 +5,4 @@ Arquivo da aula de Git e GitHub para iniciantes.
 
 Saiba mais em [willianjustem.com.br](http://willianjustem.com.br)
 
-Gostou do Curso? Quer mais? Ajude com uma doação, até um café é válido =)
+Curso Udemy Grátis!
